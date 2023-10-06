@@ -1808,9 +1808,18 @@ MonoBehaviour:
   dialogue:
     title: Wake the Dragon...
     sentences:
-    - Click the dragons head to proceed
-    - ' asdhaksjd aksjdh aksjd aksjdh kajshd asd!!!!!'
-    - asdkajhsd. aksjdh aksjdh kasjdhkasj aksjdha............
+    - 'Emerging from the portal, you find yourself in a cavernous lair, the air thick
+      with the scent of ancient treasures and the musk of a slumbering dragon. Dimly
+      lit torches lined the rocky structures, revealing the eerie splendor of the
+      place. '
+    - Atop a colossal mound of riches, lay the dragon, its monstrous form coiled
+      in deep slumber. Its scales gleamed with an iridescent luster, and its breath
+      came slow and rhythmic. As you slowly approach you can feel the fiery breath
+      of the slumbering dragon heating  your face.
+    - As you gazed upon the treasures that surrounded you, a familiar temptation
+      gnawed at your conscience. The thrill of your old tendencies as an adventurer
+      overcame you, and you couldn't resist the allure of a few shimmering GEMS.
+      So you decide to collect a few GEMS...
 --- !u!114 &1259839461
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2083,8 +2092,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2150,8 +2159,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.2846, y: -7.8237}
-  m_SizeDelta: {x: 442.85, y: 80.8903}
+  m_AnchoredPosition: {x: 1.2848, y: 1.56}
+  m_SizeDelta: {x: 442.85, y: 99.65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1338039716
 GameObject:
@@ -3552,8 +3561,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3619,8 +3628,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.2856, y: 56.7747}
-  m_SizeDelta: {x: 442.8512, y: 38.3047}
+  m_AnchoredPosition: {x: 1.285, y: 69.98}
+  m_SizeDelta: {x: 442.85, y: 24.07}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1886001606
 GameObject:
@@ -3660,8 +3669,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 190.5518, y: -64.204}
-  m_SizeDelta: {x: 83.794, y: 31.87}
+  m_AnchoredPosition: {x: 190.06, y: -66.64}
+  m_SizeDelta: {x: 84.77, y: 27}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1886001608
 MonoBehaviour:

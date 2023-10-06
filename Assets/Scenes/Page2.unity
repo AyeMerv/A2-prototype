@@ -185,8 +185,8 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
-    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
-    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_HighlightedColor: {r: 0.09075999, g: 1, b: 0, a: 0.8235294}
+    m_PressedColor: {r: 0.053451147, g: 1, b: 0.0035600662, a: 0.7529412}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
@@ -422,9 +422,16 @@ MonoBehaviour:
   dialogue:
     title: The Portal...
     sentences:
-    - Interact with the portal to proceed...
-    - Story text Story text Story text Story text Story text!!
-    - example example example!
+    - You find the key laying in the grass and approach the archway, this is where
+      you find a small keyhole etched into one of the stones. As you inserted the
+      key  into the portal's hidden keyhole, a surge of energy coursed through your
+      body.
+    - The archway shuddered, and an iridescent rift materialized before your eyes.
+      The portal, a shimmering doorway to another realm, beckoned you forward.
+    - You hesitate and with a deep breath and unwavering resolve, you step through
+      the portal, leaving the familiar world behind. The next chapter of your quest
+      awaited in a realm where the dragon and the fate of your village lay in your
+      hands...
 --- !u!114 &207764496
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1836,8 +1843,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1524400141}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -14.59, y: -3.73, z: 97.15}
-  m_LocalScale: {x: 0.9339601, y: 0.64935285, z: 0.016666666}
+  m_LocalPosition: {x: -14.4727, y: -3.73, z: 97.15}
+  m_LocalScale: {x: 0.9473157, y: 0.64935285, z: 0.016666666}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1960,8 +1967,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2027,8 +2034,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.2856, y: 56.7747}
-  m_SizeDelta: {x: 442.8512, y: 38.3047}
+  m_AnchoredPosition: {x: 1.2847, y: 67.635}
+  m_SizeDelta: {x: 442.85, y: 28.76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1596088931
 GameObject:
@@ -2174,8 +2181,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2241,8 +2248,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.2846, y: -7.8237}
-  m_SizeDelta: {x: 442.85, y: 80.8903}
+  m_AnchoredPosition: {x: 1.2847, y: -1.21}
+  m_SizeDelta: {x: 442.85, y: 94.12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1719053502
 GameObject:

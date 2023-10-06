@@ -343,10 +343,23 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Example Text Example Text Example Text Example Text Example Text Example
-    Text Example Text Example Text Example Text Example Text Example Text Example
-    Text  Example Text Example Text Example Text Example Text Example Text Example
-    Text
+  m_text: 'Audio
+
+    All Sound effects and music -> Pixabay - https://pixabay.com/
+
+    Assets
+
+    Fantasy
+    Wooden GUI - https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811
+
+    Gold
+    Pile Texture - https://assetstore.unity.com/packages/2d/textures-materials/metals/gold-pile-texture-26609
+
+    2D
+    PixelArt Realistic Crystals -https://assetstore.unity.com/packages/2d/textures-materials/2d-free-pixelart-realistic-crystals-pack-164827
+
+    Cartoon
+    FX remaster - https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-remaster-free-109565'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 37c802c89eb1a31409811f8b4d354527, type: 2}
   m_sharedMaterial: {fileID: 8162667040161857284, guid: 37c802c89eb1a31409811f8b4d354527, type: 2}
@@ -373,8 +386,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -409,7 +422,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -83.254745, y: 0, z: -84.9198, w: 2.8226013}
+  m_margin: {x: -83.254745, y: 0, z: -75.28606, w: -12.315832}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0

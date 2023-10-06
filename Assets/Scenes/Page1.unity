@@ -834,8 +834,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.2856, y: 56.7747}
-  m_SizeDelta: {x: 442.8512, y: 38.3047}
+  m_AnchoredPosition: {x: 1.2847, y: 68.74}
+  m_SizeDelta: {x: 442.85, y: 26.55}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &816598702
 MonoBehaviour:
@@ -884,8 +884,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1593,8 +1593,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 190.5518, y: -64.204}
-  m_SizeDelta: {x: 83.794, y: 31.87}
+  m_AnchoredPosition: {x: 196.88057, y: -68}
+  m_SizeDelta: {x: 88.2939, y: 28.5245}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1395625817
 MonoBehaviour:
@@ -1990,9 +1990,18 @@ MonoBehaviour:
   dialogue:
     title: The Story so far...
     sentences:
-    - Interact with the key to continue...
-    - Story text Story text Story text Story text Story text Story text...
-    - example example example example....
+    - Once a seasoned adventurer, you had long hung up your sword and shield. That
+      was until  the dreaded Dragon Plague ravaged your village. Fear gripped your
+      heart as the once-vibrant faces of friends and neighbors grew pallid, and their
+      spirits waned.
+    - "It was a scourge that no one could explain or remedy, except for one fading
+      ember of hope\u2014the cryptic knowledge passed down from your ailing grandfather.
+      In his final moments, he whispered to you the secrets he had guarded for generations\u2014the
+      key to curing the Dragon Plague."
+    - Armed with your ancestor's knowledge, you embarked on a perilous quest to confront
+      the malevolent creature and save your village. You arrive at the location where
+      you grandfather stated "You will find an overgrown rock arch and a KEY in the
+      nearby woods" you see the arch but where is the KEY......
 --- !u!114 &1565591865
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2230,8 +2239,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.2846, y: -7.8237}
-  m_SizeDelta: {x: 442.85, y: 80.8903}
+  m_AnchoredPosition: {x: 1.2847, y: 0.5401}
+  m_SizeDelta: {x: 442.85, y: 97.6179}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1661962801
 MonoBehaviour:
@@ -2280,8 +2289,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
