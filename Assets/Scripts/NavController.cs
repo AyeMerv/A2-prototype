@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class NavController : MonoBehaviour
 {
+
     public void LoadMyScene(string sceneName)
     {
         SceneManager.LoadScene(sceneName);
@@ -14,4 +15,5 @@ public class NavController : MonoBehaviour
     {
         SceneManager.LoadScene(sceneID);
     }
+
 }
